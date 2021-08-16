@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Soraya Ezazipour
 
-You can use the [editor on GitHub](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Soraya Ezazipour and I am a PhD student at Oklahoma State University in Stillwater, US. My PhD research focuses on developing algorithms and theorems for a variety of issues in combinatorial optimization, integer programming, network design and analysis, and operations research. I'm also passionate about employing heuristic algorithms to solve complex optimization problems in a more efficient and timely manner than traditional methods. Artificial neural networks, genetic algorithms, and the ant colony optimization method have all proven to be quite helpful in overcoming these problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Organizations:
+---
+- [Oklahoma State University](https://go.okstate.edu/)
+- role: PhD student in Industrial Engineering and Management
 
-### Markdown
+### Interests:
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Operations research
+- Combinatorial optimization
+- Design and analysis of networks
+- Artificial intelligence and Machine Learning.
 
-```markdown
-Syntax highlighted code block
+### Courses:
+---
+  - PhD in Applied mathematics, Iran University of Science and Technology, 2019.
+  - Ms in Applied Mathematics, Tarbiat Modares University, 2009
+  - BSc in Applied Mathematics, Yazd University, 2006.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Social:
+---
+- [GoogleScholor](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)
+- [github](https://github.com/gcushen)
+- [linkedin](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
