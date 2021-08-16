@@ -30,8 +30,11 @@ You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/S
 ### Projects and Publications:
 - Recurrent neural networks and their application in solving mathematical programming problems with equilibrium constraints.
 
-Description: Work done for my PhD dissertation in applied mathematics. You can download it summery here : []
+Description: Work done for my PhD dissertation in applied mathematics. You can download it summery here : [PhDProject](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/main/project%201.pdf)
 
+- Projection neural networks for solving pseudoconvex optimization problems and pseudomonotone variational inequalities.
+
+Description: Work done for my MSc thesis in Applied Mathematics. You can download it summery here : [PhDProject](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/main/project%201.pdf)
 
 
 
