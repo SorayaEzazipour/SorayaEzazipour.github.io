@@ -5,7 +5,8 @@ My name is Soraya Ezazipour and I am a PhD student at Oklahoma State University 
 ### Organizations:
 ---
 - [Oklahoma State University](https://go.okstate.edu/)
-- role: PhD student in Industrial Engineering and Management
+- PhD student in Industrial Engineering and Management
+- Email:sezazip@okstate.edu
 
 ### Interests:
 ---
@@ -27,3 +28,4 @@ My name is Soraya Ezazipour and I am a PhD student at Oklahoma State University 
 - [GoogleScholor](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)
 - [github](https://github.com/gcushen)
 - [linkedin](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
+- [researchgate](https://www.researchgate.net/profile/Soraya-Ezazipour)
