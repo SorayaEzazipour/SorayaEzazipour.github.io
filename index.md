@@ -26,6 +26,6 @@ My name is Soraya Ezazipour and I am a PhD student at Oklahoma State University 
 ### Social:
 ---
 - [GoogleScholor](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)
-- [github](https://github.com/gcushen)
-- [linkedin](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
-- [researchgate](https://www.researchgate.net/profile/Soraya-Ezazipour)
+- [Github](https://github.com/gcushen)
+- [Linkedin](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
+- [Researchgate](https://www.researchgate.net/profile/Soraya-Ezazipour)
