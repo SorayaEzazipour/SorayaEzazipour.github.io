@@ -1,5 +1,5 @@
 ## Soraya Ezazipour
-![Soraye Ezazipour](5+5.jpg)
+![](5+5.jpg)
 
 My name is Soraya Ezazipour and I am a PhD student at Oklahoma State University in Stillwater, US. My PhD research focuses on developing algorithms and theorems for a variety of issues in combinatorial optimization, integer programming, network design and analysis, and operations research. I'm also passionate about employing heuristic algorithms to solve complex optimization problems in a more efficient and timely manner than traditional methods. Artificial neural networks, genetic algorithms, and the ant colony optimization method have all proven to be quite helpful in overcoming these problems.
 
