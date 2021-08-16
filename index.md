@@ -8,7 +8,7 @@ You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/S
 ---
 - [Oklahoma State University](https://go.okstate.edu/)
 - PhD student in Industrial Engineering and Management
-- Email:sezazip@okstate.edu
+- Email: sezazip@okstate.edu
 
 ### Interests:
 ---
