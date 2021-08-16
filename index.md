@@ -27,6 +27,14 @@ You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/S
   - Ms in Applied Mathematics, Tarbiat Modares University, 2009
   - BSc in Applied Mathematics, Yazd University, 2006.
 
+### Projects and Publications:
+- Recurrent neural networks and their application in solving mathematical programming problems with equilibrium constraints.
+
+Description: Work done for my PhD dissertation in applied mathematics. You can download it summery here : []
+
+
+
+
 
 ### Social:
 ---
