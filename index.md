@@ -31,6 +31,6 @@ You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/S
 ### Social:
 ---
 - [GoogleScholor](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)
-- [Github](https://github.com/gcushen)
+- [Github](https://sorayaezazipour.github.io/)
 - [Linkedin](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
 - [Researchgate](https://www.researchgate.net/profile/Soraya-Ezazipour)
