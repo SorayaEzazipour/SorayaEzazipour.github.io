@@ -26,6 +26,7 @@ You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/S
   - BSc in Applied Mathematics, Yazd University, 2006.
 
 ### Projects: 
+---
 - Recurrent neural networks and their application in solving mathematical programming problems with equilibrium constraints.
 
 Description: Work done for my PhD dissertation in applied mathematics. You can download its summery here : [PhDProject](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/main/project%201.pdf)
@@ -35,6 +36,7 @@ Description: Work done for my PhD dissertation in applied mathematics. You can d
 Description: Work done for my MSc thesis in Applied Mathematics. You can download its summery here : [MSProject](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/main/project%202.pdf)
 
 ### Recent Publications:
+---
 1. Soraya Ezazipour and Ahmad Golbabai, A globally convergent neurodynamics optimization
 model for mathematical programming with equilibrium constraints, Kybernetika, vol. 56
 (2020), issue 3, pp. 383-409. [link](https://dml.cz/bitstream/handle/10338.dmlcz/148306/Kybernetika_56-2020-3_1.pdf)
