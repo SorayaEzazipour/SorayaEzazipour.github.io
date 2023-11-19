@@ -47,6 +47,6 @@ You can find my publications here [link](https://scholar.google.com/citations?us
 👥 Social:
 ---
 - [GoogleScholor](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)
-- [Github](https://sorayaezazipour.github.io/)
+- [Github](https://github.com/SorayaEzazipour)
 - [Linkedin](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)
 - [Researchgate](https://www.researchgate.net/profile/Soraya-Ezazipour)
