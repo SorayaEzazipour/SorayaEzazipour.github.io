@@ -29,7 +29,7 @@ You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/S
 
   Education:
 ---
-📖 Ph.D. in Industrial Engineering & Management 2025
+📖 Ph.D. in Industrial Engineering & Management , Oklahoma State University, 2025.
 
 
  Publications:
