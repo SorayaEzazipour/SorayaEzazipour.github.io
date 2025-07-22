@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+Hi!
 ========================================================================================================================================
 
-My name is Soraya Ezazipour, an industrial engineering Ph.D. student, specializing in operations research, with expertise in combinatorial optimization, integer programming, network optimization, and machine learning.
-
+I hold a Ph.D. in industrial engineering with a strong foundation in operations research, statistics, and data science. I have hands-on experience with convex and non-convex optimization, combinatorial optimization, integer programming, and network optimization. I also work with machine learning and am proficient in C++ and Python. I enjoy applying these skills to real-world problems across areas like economics, supply chain management, healthcare, and finance. I have a thorough understanding of algorithms and data structures. I am always eager to take on new challenges and create practical, data-driven solutions that make a difference.
 * ✉️  You can contact me at sezazip@okstate.edu, ezazipour@gmail.com
 * ⚡  I currently work on solving combinatorial optimization problems in networks, with applications in political redistricting
 * 😊  I have passion for solving complex problems through interdisciplinary research, innovative algorithm design.
