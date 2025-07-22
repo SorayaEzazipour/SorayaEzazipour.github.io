@@ -16,7 +16,8 @@
         <a href="mailto:sezazip@okstate.edu">sezazip@okstate.edu</a> or 
         <a href="mailto:ezazipour@gmail.com">ezazipour@gmail.com</a>  
         <br>
-        📄 <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipur.pdf">Download my CV</a>
+        📄 <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipour.pdf" target="_blank">Download my CV</a>
+
       </p>
     </td>
   </tr>
