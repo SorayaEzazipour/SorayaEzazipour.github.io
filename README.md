@@ -4,21 +4,22 @@
       <img src="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/my_pic_informs.jpg" width="180" alt="Soraya Ezazipour">
     </td>
     <td>
-      <p><strong>Hi!</strong></p>
+      <p><strong>Hello, my name is Soraya Ezazipour.</strong></p>
       <p>
-        I hold a Ph.D. in industrial engineering with a strong foundation in operations research, statistics, and data science.  
-        I have hands-on experience with convex and non-convex optimization, combinatorial optimization, integer programming, and network optimization.  
-        I also work with machine learning and am proficient in C++ and Python. I enjoy applying these skills to real-world problems across areas like economics, supply chain management, healthcare, and finance.  
-        I have a thorough understanding of algorithms and data structures. I am always eager to take on new challenges and create practical, data-driven solutions that make a difference.
+        I hold a Ph.D. in Industrial Engineering with a strong foundation in operations research, statistics, and data science.  
+        My academic and professional background includes hands-on experience in convex and non-convex optimization, combinatorial optimization, integer programming, and network optimization.  
+        I also work with machine learning techniques and am proficient in C++ and Python. I enjoy applying these skills to solve real-world problems in domains such as economics, supply chain management, healthcare, and finance.  
+        I have a solid understanding of algorithms and data structures and am continually seeking opportunities to develop practical, data-driven solutions that generate meaningful impact.
       </p>
       <p>
-        ✉️ You can contact me at sezazip@okstate.edu, ezazipour@gmail.com  
+        ✉️ You may contact me at sezazip@okstate.edu or ezazipour@gmail.com  
         <br>
-        📄 You can download my CV here: <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/master/Soraya_Ezazipur.pdf">CV-Ezazipour</a>
+        📄 Download my CV here: <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/master/Soraya_Ezazipur.pdf">CV-Ezazipour</a>
       </p>
     </td>
   </tr>
 </table>
+
 
 
  Research Interests:
