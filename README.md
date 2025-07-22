@@ -49,8 +49,6 @@ You can find a list of my publications on [Google Scholar](https://scholar.googl
 ---
 
 ### 🌐 Connect with Me
-
-- [Google Scholar](https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en)  
 - [GitHub](https://github.com/SorayaEzazipour)  
 - [LinkedIn](https://www.linkedin.com/in/soraya-ezazipour-6630b732/)  
 - [ResearchGate](https://www.researchgate.net/profile/Soraya-Ezazipour)  
