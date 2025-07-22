@@ -7,24 +7,34 @@
     body {
       font-family: Arial, sans-serif;
       max-width: 900px;
-      margin: auto;
-      padding: 20px;
+      margin: 40px auto;
+      padding: 0 20px;
       line-height: 1.6;
+      color: #333;
     }
     header {
       display: flex;
       align-items: center;
-      margin-bottom: 30px;
+      margin-bottom: 40px;
     }
     img {
-      width: 200px;
-      height: 200px;
-      border-radius: 60%;
-      margin-right: 30px;
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
       object-fit: cover;
+      margin-right: 30px;
     }
     h1 {
       margin: 0;
+      font-size: 2em;
+    }
+    .pronouns {
+      color: #666;
+      font-weight: bold;
+      font-size: 0.9em;
+    }
+    .section {
+      margin-top: 30px;
     }
     a {
       color: #0066cc;
@@ -33,40 +43,43 @@
     .links a {
       margin-right: 15px;
     }
-    .small {
-      font-size: 0.9em;
-      color: #666;
-    }
   </style>
 </head>
 <body>
 
   <header>
-    <img src="my_pic_informs.jpg" alt="Soraya Ezazipour">
+    <img src="my_pic_informs" alt="Soraya Ezazipour">
     <div>
-      <h1>Soraya Ezazipour <span class="small">(she/her/hers)</span></h1>
+      <h1><strong>Soraya Ezazipour</strong> <span class="pronouns">(she/her/hers)</span></h1>
       <p>Ph.D., Industrial Engineering<br>
          Oklahoma State University</p>
       <p>Stillwater, OK</p>
     </div>
   </header>
 
-  <section>
+  <div class="section">
     <h2>About Me</h2>
-    <p>I am a Ph.D. in Industrial Engineering with research focused on operations research, combinatorial optimization, integer programming, and redistricting. I have worked on developing mathematical models and algorithms for complex decision-making problems in both academic and practical settings.</p>
+    <p>I am a Ph.D. in Industrial Engineering with expertise in operations research, combinatorial optimization, and political redistricting. My work applies mathematical models and algorithms to improve complex systems and inform public policy.</p>
     <p>Email: <a href="mailto:soraya.ezazipour@okstate.edu">soraya.ezazipour@okstate.edu</a></p>
-  </section>
+  </div>
 
-  <section>
+  <div class="section">
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="https://github.com/SorayaEzazipour/Finding_Pareto_Optimal_Districting_Plans" target="_blank">Finding Pareto Optimal Districting Plans</a></li>
+      <li><a href="https://github.com/SorayaEzazipour/refuting_a_widespread_belief_about_county_splits" target="_blank">Refuting a Widespread Belief About County Splits</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
     <h2>Links</h2>
     <div class="links">
       <a href="https://github.com/SorayaEzazipour">GitHub</a>
       <a href="#">Google Scholar</a>
       <a href="#">LinkedIn</a>
-      <a href="#">ResearchGate</a>
       <a href="#">ORCID</a>
     </div>
-  </section>
+  </div>
 
 </body>
 </html>
