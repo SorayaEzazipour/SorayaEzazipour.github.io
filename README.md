@@ -1,10 +1,9 @@
-Hi!
+Hi! https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/blob/master/my_pic_informs.jpg
 ========================================================================================================================================
 
 I hold a Ph.D. in industrial engineering with a strong foundation in operations research, statistics, and data science. I have hands-on experience with convex and non-convex optimization, combinatorial optimization, integer programming, and network optimization. I also work with machine learning and am proficient in C++ and Python. I enjoy applying these skills to real-world problems across areas like economics, supply chain management, healthcare, and finance. I have a thorough understanding of algorithms and data structures. I am always eager to take on new challenges and create practical, data-driven solutions that make a difference.
+
 * ✉️  You can contact me at sezazip@okstate.edu, ezazipour@gmail.com
-* ⚡  I currently work on solving combinatorial optimization problems in networks, with applications in political redistricting
-* 😊  I have passion for solving complex problems through interdisciplinary research, innovative algorithm design.
 
 You can download my CV here: [CV-Ezazipour](https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/btree/master/Soraya_Ezazipur.pdf)
 
