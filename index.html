@@ -1,118 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Soraya Ezazipour – Personal Website</title>
-  <meta name="description" content="Official personal website of Soraya Ezazipour, Ph.D. in Industrial Engineering. Research interests include optimization, networks, and machine learning." />
-  <meta name="author" content="Soraya Ezazipour" />
-  <meta name="robots" content="index, follow" />
-  <link rel="icon" href="data:," /> <!-- Prevents favicon error -->
-
+  <meta charset="UTF-8">
+  <title>Soraya Ezazipour</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 40px;
-      background: #f9f9f9;
-      color: #333;
+      max-width: 900px;
+      margin: auto;
+      padding: 20px;
       line-height: 1.6;
     }
-    table {
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-      margin-bottom: 40px;
+    header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 30px;
+    }
+    img {
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      margin-right: 30px;
+      object-fit: cover;
+    }
+    h1 {
+      margin: 0;
     }
     a {
-      color: #0366d6;
+      color: #0066cc;
       text-decoration: none;
     }
-    a:hover {
-      text-decoration: underline;
+    .links a {
+      margin-right: 15px;
     }
-    h2 {
-      color: #222;
-      margin-top: 40px;
-    }
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    ul li::before {
-      content: "• ";
-      color: #0366d6;
-      font-weight: bold;
-    }
-    .section {
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-      margin-bottom: 30px;
+    .small {
+      font-size: 0.9em;
+      color: #666;
     }
   </style>
 </head>
 <body>
 
-<!-- Intro Section -->
-<table>
-  <tr>
-    <td width="200">
-      <img src="my_pic_informs.jpg" width="180" alt="Soraya Ezazipour" />
-    </td>
-    <td>
-      <p><strong>Hello, my name is Soraya Ezazipour.</strong></p>
-      <p>
-        I hold a Ph.D. in Industrial Engineering from Oklahoma State University. My work focuses on mixed-integer programming, network optimization, and data-driven decision making. I apply techniques from operations research, statistics, and data science to address real-world challenges.
-      </p>
-      <p>
-        I also have experience with machine learning techniques and have worked with both C++ and Python. I enjoy developing practical solutions through mathematical modeling and algorithm design. With a solid foundation in algorithms and data structures, I continually seek opportunities to contribute to challenging projects that bridge theory and real-world impact.
-      </p>
-      <p>
-        ✉️ You may contact me at 
-        <a href="mailto:sezazip@okstate.edu">sezazip@okstate.edu</a> or 
-        <a href="mailto:ezazipour@gmail.com">ezazipour@gmail.com</a><br />
-        📄 <a href="Soraya_Ezazipour.pdf" target="_blank">Download my CV</a>
-      </p>
-    </td>
-  </tr>
-</table>
+  <header>
+    <img src="my_pic_informs.jpg" alt="Soraya Ezazipour">
+    <div>
+      <h1>Soraya Ezazipour <span class="small">(she/her/hers)</span></h1>
+      <p>Ph.D., Industrial Engineering<br>
+         Oklahoma State University</p>
+      <p>Stillwater, OK</p>
+    </div>
+  </header>
 
-<!-- Research Interests -->
-<div class="section">
-  <h2>🧠 Research Interests</h2>
-  <ul>
-    <li>📊 Operations Research</li>
-    <li>🧩 Combinatorial Optimization</li>
-    <li>🌐 Network Design and Analysis</li>
-    <li>🤖 Artificial Intelligence and Machine Learning</li>
-    <li>🎲 Optimization under Uncertainty</li>
-    <li>⏳ Discrete-Event Systems Simulation</li>
-  </ul>
-</div>
+  <section>
+    <h2>About Me</h2>
+    <p>I am a Ph.D. in Industrial Engineering with research focused on operations research, combinatorial optimization, integer programming, and redistricting. I have worked on developing mathematical models and algorithms for complex decision-making problems in both academic and practical settings.</p>
+    <p>Email: <a href="mailto:soraya.ezazipour@okstate.edu">soraya.ezazipour@okstate.edu</a></p>
+  </section>
 
-<!-- Education -->
-<div class="section">
-  <h2>🎓 Education</h2>
-  <p><strong>Ph.D. in Industrial Engineering & Management</strong>, Oklahoma State University</p>
-</div>
-
-<!-- Publications -->
-<div class="section">
-  <h2>📚 Publications</h2>
-  <p>You can find a list of my publications on <a href="https://scholar.google.com/citations?user=CgtEausAAAAJ&hl=en" target="_blank">Google Scholar</a>.</p>
-</div>
-
-<!-- Connect -->
-<div class="section">
-  <h2>🌐 Connect with Me</h2>
-  <ul>
-    <li><a href="https://github.com/SorayaEzazipour" target="_blank">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/soraya-ezazipour-6630b732/" target="_blank">LinkedIn</a></li>
-    <li><a href="https://www.researchgate.net/profile/Soraya-Ezazipour" target="_blank">ResearchGate</a></li>
-  </ul>
-</div>
+  <section>
+    <h2>Links</h2>
+    <div class="links">
+      <a href="https://github.com/SorayaEzazipour">GitHub</a>
+      <a href="#">Google Scholar</a>
+      <a href="#">LinkedIn</a>
+      <a href="#">ResearchGate</a>
+      <a href="#">ORCID</a>
+    </div>
+  </section>
 
 </body>
 </html>
