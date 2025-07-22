@@ -6,12 +6,10 @@
     <td>
       <p><strong>Hello, my name is Soraya Ezazipour.</strong></p>
       <p>
-        I hold a Ph.D. in Industrial Engineering from Oklahoma State University. My work focuses on mixed-integer programming, network optimization, and data-driven decision making. I apply techniques from operations research, statistics, and data science to solve real-world problems.
+        I hold a Ph.D. in Industrial Engineering from Oklahoma State University. My work focuses on mixed-integer programming, network optimization, and data-driven decision making. I apply techniques from operations research, statistics, and data science to address real-world challenges.
       </p>
       <p>
-        I have also worked with machine learning techniques and have experience in both C++ and Python. I enjoy developing practical solutions through mathematical modeling and algorithm design. With a solid foundation in algorithms and data structures, I continually seek opportunities to work on challenging projects that bridge theory and application.
-
-      
+        I also have experience with machine learning techniques and have worked with both C++ and Python. I enjoy developing practical solutions through mathematical modeling and algorithm design. With a solid foundation in algorithms and data structures, I continually seek opportunities to contribute to challenging projects that connect theory with real-world impact.
       </p>
       <p>
         ✉️ You may contact me at sezazip@okstate.edu or ezazipour@gmail.com  
@@ -22,7 +20,6 @@
   </tr>
 </table>
 
----
 
 ### 🧠 Research Interests
 
