@@ -14,7 +14,8 @@
       <p>
         ✉️ You may contact me at sezazip@okstate.edu or ezazipour@gmail.com  
         <br>
-        📄 Download my CV here: <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipur.pdf">CV – Soraya Ezazipour</a>
+        📄 Download my CV here: <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipur.pdf">Download my CV</a>
+
       </p>
     </td>
   </tr>
