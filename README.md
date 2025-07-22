@@ -6,13 +6,13 @@
     <td>
       <p><strong>Hello, my name is Soraya Ezazipour.</strong></p>
       <p>
-        I am a Ph.D. candidate in Industrial Engineering at Oklahoma State University, specializing in optimization, network analysis, and data-driven decision making. My academic and professional background integrates operations research, statistics, and data science to address complex and impactful real-world problems.
+        I hold a Ph.D. in Industrial Engineering from Oklahoma State University. My work focuses on mixed integer programming, network optimization, and data-driven decision making. I use tools from operations research, statistics, and data science to solve real-world problems.
       </p>
       <p>
-        My research spans convex and non-convex optimization, combinatorial and integer programming, and network optimization. I also work extensively with machine learning techniques, and I am proficient in both C++ and Python. My work applies these methodologies across diverse domains including economics, supply chain management, healthcare, and public policy—most notably, political redistricting.
+        I have also worked with machine learning techniques and have experience in both C++ and Python. I am interested in applying these methods across a range of domains, including economics, supply chain management, healthcare, and public policy.
       </p>
       <p>
-        I am particularly passionate about developing innovative, practical solutions through mathematical modeling and algorithm design. I bring a rigorous understanding of algorithms and data structures and continuously seek out challenging opportunities to contribute to interdisciplinary research and data-driven decision support systems.
+        I enjoy building practical solutions using mathematical models and algorithms. I have a strong background in algorithms and data structures, and I’m always looking for challenging projects that combine theory with real-world impact.
       </p>
       <p>
         ✉️ You may contact me at sezazip@okstate.edu or ezazipour@gmail.com  
