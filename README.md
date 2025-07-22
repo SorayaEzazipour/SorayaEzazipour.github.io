@@ -12,13 +12,16 @@
         I also have experience with machine learning techniques and have worked with both C++ and Python. I enjoy developing practical solutions through mathematical modeling and algorithm design. With a solid foundation in algorithms and data structures, I continually seek opportunities to contribute to challenging projects that bridge theory and real-world impact.
       </p>
       <p>
-        ✉️ You may contact me at sezazip@okstate.edu or ezazipour@gmail.com  
+        ✉️ You may contact me at 
+        <a href="mailto:sezazip@okstate.edu">sezazip@okstate.edu</a> or 
+        <a href="mailto:ezazipour@gmail.com">ezazipour@gmail.com</a>  
         <br>
-        📄 Download my CV here: <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipur.pdf">Download my CV</a>
-
-  
-    
+        📄 <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipur.pdf">Download my CV</a>
+      </p>
+    </td>
+  </tr>
 </table>
+
 
 
 
