@@ -16,7 +16,7 @@
         <br>
         📄 Download my CV here: <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipur.pdf">Download my CV</a>
 
-      </p>
+  
     
 </table>
 
