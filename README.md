@@ -9,17 +9,17 @@
         I hold a Ph.D. in Industrial Engineering from Oklahoma State University. My work focuses on mixed-integer programming, network optimization, and data-driven decision making. I apply techniques from operations research, statistics, and data science to address real-world challenges.
       </p>
       <p>
-        I also have experience with machine learning techniques and have worked with both C++ and Python. I enjoy developing practical solutions through mathematical modeling and algorithm design. With a solid foundation in algorithms and data structures, I continually seek opportunities to contribute to challenging projects that connect theory with real-world impact.
+        I also have experience with machine learning techniques and have worked with both C++ and Python. I enjoy developing practical solutions through mathematical modeling and algorithm design. With a solid foundation in algorithms and data structures, I continually seek opportunities to contribute to challenging projects that bridge theory and real-world impact.
       </p>
       <p>
         ✉️ You may contact me at sezazip@okstate.edu or ezazipour@gmail.com  
         <br>
-        📄 Download my CV here: <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipur.pdf">CV</a>
-
+        📄 Download my CV here: <a href="https://github.com/SorayaEzazipour/SorayaEzazipour.github.io/raw/master/Soraya_Ezazipur.pdf">CV – Soraya Ezazipour</a>
       </p>
     </td>
   </tr>
 </table>
+
 
 
 ### 🧠 Research Interests
